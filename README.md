@@ -9,16 +9,6 @@ Welcome to the Pet Adoption App repository! This web application helps users fin
 - **Search Functionality:** Find pets by keywords or filters such as age and breed.
 - **Contact Shelter:** Reach out to the shelter for adoption inquiries via a contact form.
 
-## Folder Structure
-- **src/:** Contains the source code for the web application.
-  - **index.html:** Main HTML file for the application.
-  - **styles/:** CSS files for styling the application.
-  - **scripts/:** JavaScript files for client-side functionality.
-  - **images/:** Images used in the application.
-- **docs/:** Contains documentation files for the project.
-  - **README.md:** Overview, installation instructions, usage guide, and contribution guidelines.
-- **LICENSE:** Specifies the project's license.
-
 ## Installation
 To run the application locally, follow these simple steps:
 1. Clone this repository to your local machine.
