@@ -13,3 +13,7 @@ Welcome to the Pet Adoption App repository! This web application helps users fin
 To run the application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
+
+To access the site: https://gumptruck.github.io/PetAdoptionApp/
+
+Note that this is for showcase purposes, and the contact shelter will not connect to any actual shelter. 
