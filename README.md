@@ -13,3 +13,5 @@ Welcome to the Pet Adoption App repository! This web application helps users fin
 To run the application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
+
+Note: It does not actually let you contact any specific animal shelter, as this is for showcase.
