@@ -33,9 +33,3 @@ To run the application locally, follow these steps:
 2. Browse pets by category or use the search functionality to find specific pets.
 3. Click on a pet to view its details and contact the shelter for adoption inquiries.
 
-## Contributing
-We welcome contributions from the community! If you encounter any bugs, have feature suggestions, or would like to contribute code, please follow these guidelines:
-- Check the existing issues to see if your bug or feature request has already been reported.
-- If not, open a new issue describing the bug or feature request.
-- Fork the repository, create a new branch, and make your changes.
-- Submit a pull request with a clear description of your changes and reference to the relevant issue.
