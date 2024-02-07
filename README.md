@@ -19,14 +19,10 @@ Welcome to the Pet Adoption App repository! This web application helps users fin
   - **README.md:** Overview, installation instructions, usage guide, and contribution guidelines.
 - **LICENSE:** Specifies the project's license.
 
-## Demo
-Check out the live demo of the Pet Adoption App [here](#).
-
 ## Installation
-To run the application locally, follow these steps:
+To run the application locally, follow these simple steps:
 1. Clone this repository to your local machine.
-2. Navigate to the `src/` directory.
-3. Open `index.html` in your web browser.
+2. Open `index.html` in your web browser.
 
 ## Usage
 1. Create an account or log in to your existing account.
