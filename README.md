@@ -1,8 +1,6 @@
 # PetAdoptionApp
 This repository contains the code for a web application that helps users find pets available for adoption in their area. Users can browse through different categories of pets, view details about each pet, and contact the shelter for adoption inquiries.
 
-# Pet Adoption App Repo
-
 Welcome to the Pet Adoption App repository! This web application helps users find pets available for adoption in their area. Users can browse pets by category, search for pets by keywords or filters, and contact the shelter for adoption inquiries.
 
 ## Key Features
