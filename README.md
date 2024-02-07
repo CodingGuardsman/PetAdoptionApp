@@ -9,10 +9,7 @@ Welcome to the Pet Adoption App repository! This web application helps users fin
 - **Search Functionality:** Find pets by keywords or filters such as age and breed.
 - **Contact Shelter:** Reach out to the shelter for adoption inquiries via a contact form.
 
-# Website
-Here's the link!: https://gumptruck.github.io/PetAdoptionApp/
-
 ## Installation
-To run the application locally, follow these simple steps:
+To run the application locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Open `index.html` in your web browser.
